@@ -1,2 +1,0 @@
-# Mercedes_JWT
-django
